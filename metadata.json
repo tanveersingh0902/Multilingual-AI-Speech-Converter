@@ -1,0 +1,6 @@
+{
+  "name": "Multilingual AI Speech Converter",
+  "description": "Convert live audio speech and audio files to text, with real-time AI translation and refinement using Gemini.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
